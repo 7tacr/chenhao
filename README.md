@@ -14,6 +14,11 @@
 3、使用IDEA打开项目后，在maven面板刷新项目，下载依赖包。
 4、配置数据库连接并启动MingHaoSpringBootApplication即可。
 
+#### k8s部署的项目访问网址:
+
+    前台：127.0.0.1:8080/minghao
+    后台：127.0.0.1:8080/minghao/admin
+
 
 #### 注意事项
 
